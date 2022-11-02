@@ -1,0 +1,10 @@
+.container_pagos {
+    width: max-content;
+    display: flex;
+}
+.nombre_cliente{
+    background-color: #07BBA5;
+    font-family: 'Jolly Lodger';
+    font-size: 20px;
+    font-style: oblique;
+}

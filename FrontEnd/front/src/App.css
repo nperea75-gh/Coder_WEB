@@ -1,0 +1,11 @@
+body{
+  background-color: #CF7A80;
+}
+
+.header_container{
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
