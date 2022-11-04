@@ -3,6 +3,7 @@
     display: flex;
     flex-direction: column;
     align-items: center;
+    
 
     
 }
@@ -12,6 +13,7 @@
   display: flex;
   flex-direction: row;
   align-items: center;
+  margin: 20px;
 
 }
 
@@ -57,4 +59,27 @@
    
     text-align: left;
    
+  }
+  .container_barra{
+    margin: auto;
+    width: 90%;
+    background-color:#07BBA5 ;
+    display: flex;
+    align-items: center;
+    
+    justify-content: space-between;
+  }
+
+  .nombrecliente-in{
+    color: #FDF9EC;
+    font-size: 50px;
+    font-family: Jolly Lodger;
+    letter-spacing: 1px;
+    margin-left: 20px;
+  }
+
+  .container_button-in{
+    display: flex;
+    align-items: center;
+    padding: 10px;
   }

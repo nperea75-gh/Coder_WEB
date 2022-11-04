@@ -11,13 +11,13 @@ export const Inventario = () => {
             
 
             <div className='container_barra'>
-                <div className='nombrecliente'>
+                <div className='nombrecliente-in'>
                     <text className='nombre'>CLIENTE: Juliana Caicedo</text>
-            </div>
-                <div className='container_button'>
-                    <Link to={'/hometendero'}><box-icon name='arrow-back' ></box-icon></Link></div>
-                <div className='container_button'>
-                    <Link to={'/'}><box-icon name='exit'></box-icon></Link></div>
+                </div>
+                <div className='container_button-in'>
+                    <Link to={'/hometendero'}><box-icon name='arrow-back' size="lg" ></box-icon></Link>
+                
+                    <Link to={'/'}><box-icon name='exit' size="lg"></box-icon></Link></div>
                 
                 
                 
