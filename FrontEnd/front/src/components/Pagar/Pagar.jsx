@@ -7,7 +7,7 @@ import { Link } from 'react-router-dom'
 
 export const Pagar = () => {
   return (
-    <div className='container'>
+    <div className='container-p'>
       <div className="container_pagos">
         <div className='container_pagoDaviplata'>
           <img className='pago_daviplata' class='center' src={Daviplata}></img>
